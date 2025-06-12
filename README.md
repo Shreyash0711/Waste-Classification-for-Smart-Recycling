@@ -34,7 +34,6 @@ A deep learning project using TensorFlow and MobileNetV2 to classify images of t
 | Final Validation Accuracy | 81.4%    |
 | Final Validation Loss     | 0.56     |
 | Best Epoch | 10/10 |
-| Inferenc
 e Speed | ~27s/epoch (64 steps) |
 
 <img width="1440" alt="Screenshot 2025-06-12 at 9 28 10 PM" src="https://github.com/user-attachments/assets/3b731dee-e732-47ef-9ebe-3de92266b8d6" />
